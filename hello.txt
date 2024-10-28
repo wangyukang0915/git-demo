@@ -7,6 +7,8 @@ hello githello githello git
 master edit
 我是大神
 
+
+hot-fix editor
 hello git
 
 hello git
